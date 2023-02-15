@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ngaji.Views.Schedule.LandingPage"
+             Title="LandingPage"
+             BackgroundColor="{DynamicResource SecondaryColor}">
+
+    <Shell.TitleView>
+        <FlexLayout JustifyContent="SpaceAround">
+            <Image
+                    Source="logo.png"
+                    HeightRequest="24"
+                    WidthRequest="34"
+                    Margin="16,12,16,12"
+                    Aspect="AspectFit"
+                    HorizontalOptions="Start"/>
+            <HorizontalStackLayout >
+                <Button Text="Masuk"
+                            class="Rounded"
+                            CornerRadius="32"
+                            Padding="16,12,16,12"
+                            FontFamily="Nunito-black"
+                            FontSize="16"
+                            BorderColor="Transparent"
+                            TextColor="{StaticResource Primary}"
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="End"
+                            VerticalOptions="Center"
+                            WidthRequest="82"
+                            HeightRequest="40"
+                            />
+
+                <Button Text="Daftar"
+                            class="Rounded"
+                            CornerRadius="16"
+                            Padding="16,12,16,12"
+                            FontSize="12"
+                            FontFamily="Nunito-black"
+                            TextColor="White"
+                            BorderColor="Transparent"
+                            BackgroundColor="{StaticResource Primary}"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            WidthRequest="82"
+                            HeightRequest="40"/>
+            </HorizontalStackLayout>
+        </FlexLayout>
+    </Shell.TitleView>
+    <ScrollView>
+        <VerticalStackLayout>
+            <Frame Margin="20, 15, 20, 20"
+                   CornerRadius="10"
+                   Padding="0">
+                <SearchBar Placeholder="Mulai Mengaji Sekarang" 
+                           HorizontalOptions="CenterAndExpand"/>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

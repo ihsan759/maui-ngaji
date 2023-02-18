@@ -188,13 +188,40 @@
                   Y2="0"
                   Stroke="#D3D3D3"/>
             <Label Text="Pilih waktu mengajimu"
-                   Margin="0, 20, 0, 0"
+                   Margin="0, 20, 0, 18"
                    TextColor="#313131"
                    FontSize="18"
                    FontAttributes="Bold"/>
 
-            <HorizontalStackLayout>
-                
+            <HorizontalStackLayout Spacing="10">
+                <Border Background="#F2F2F2"
+                        Stroke="#F2F2F2"
+                        Padding="20, 13, 20, 13">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="30" />
+                    </Border.StrokeShape>
+                    <HorizontalStackLayout Spacing="10">
+                        <Image Source="pagi.png"/>
+                        <Label Text="Pagi"
+                               FontSize="16"
+                               TextColor="#313131"
+                               FontAttributes="Bold"/>
+                    </HorizontalStackLayout>
+                </Border>
+                <Border Background="white"
+                        Stroke="white"
+                        Padding="20, 13, 20, 13">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="30" />
+                    </Border.StrokeShape>
+                    <HorizontalStackLayout Spacing="10">
+                        <Image Source="siang.png"/>
+                        <Label Text="Siang"
+                               FontSize="16"
+                               TextColor="white"
+                               FontAttributes="Bold"/>
+                    </HorizontalStackLayout>
+                </Border>
             </HorizontalStackLayout>
         </VerticalStackLayout>
     </ScrollView>

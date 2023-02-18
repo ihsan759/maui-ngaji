@@ -229,7 +229,6 @@ D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\cr
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.222.60605.dll
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -327,3 +326,7 @@ D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\re
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logosquareSplashScreen.scale-150.png
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logosquareSplashScreen.scale-200.png
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logosquareSplashScreen.scale-400.png
+D:\farcapital\maui\ngaji\ngaji\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.323.6910.dll
+D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pagi.scale-100.png
+D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\siang.scale-100.png

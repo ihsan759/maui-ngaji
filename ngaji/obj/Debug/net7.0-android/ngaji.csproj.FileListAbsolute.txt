@@ -970,3 +970,4 @@ D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
 D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-android\resizetizer\r\drawable\logo.png
+D:\farcapital\maui\ngaji\ngaji\obj\Debug\net7.0-android\resizetizer\r\drawable\pagi.png
